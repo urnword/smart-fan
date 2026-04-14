@@ -70,7 +70,7 @@ The ESP32 is optional but enables:
    - ESP32 GND
 
 **Circuit Diagram**
-![circuit diagram](../circuit_diagram.png)
+![circuit diagram](./circuit_diagram.png)
 
 ---
 
