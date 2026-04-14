@@ -63,14 +63,16 @@ The ESP32 is optional but enables:
 
 ## Wiring
 
+### Circuit Diagram
+![circuit diagram](./circuit_diagram.png)
+
+---
+
 ### Power Distribution
 1. Connect **5V supply →**
    - Boost converter input
    - ESP32 VIN
    - ESP32 GND
-
-**Circuit Diagram**
-![circuit diagram](./circuit_diagram.png)
 
 ---
 
